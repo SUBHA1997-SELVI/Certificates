@@ -1,2 +1,3 @@
 # Certificates
 I have recently completed a comprehensive PCB Design course, through which I gained a strong understanding and hands-on knowledge of the entire PCB design workflow. I learned to create accurate schematics, design and analyze electronic circuits, perform PCB simulations, and effectively assign the correct footprints to each electronic component.
+I also developed proficiency in generating netlists, managing wiring connections, and ensuring proper electrical design rules are followed throughout the layout process. This course has given me the confidence to design end-to-end PCB projects with clarity, precision, and industry-level standards.
